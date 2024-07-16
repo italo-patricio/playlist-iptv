@@ -2088,3 +2088,19 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zonafilms
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="",ZTV (720p) [Not 24/7]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" group-title="General", Aguacate TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/imagenes/guarotv.jpg" group-title="General", Guaro TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="interTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/imagenes/intertv.jpg" group-title="General", Inter TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" group-title="General", Latina TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3639/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/imagenes/kandelatv.jpg" group-title="General", Kandela TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="Telecentro.com.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/roku/telecentro/listposter.jpg" group-title="General", Telecentro (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1 tvg-id="Portutv.com", tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="General", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="Iglesialgd.org" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/roku/iglesialgd/lgdtv.jpg" group-title="General", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
